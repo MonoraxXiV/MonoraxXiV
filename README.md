@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Kayalin aka MonoraxXiV
 
 <!--
 **MonoraxXiV/MonoraxXiV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 🌱 I’m currently learning to code with Becode, a 7 month bootcamp.  
+  🔭 I’m currently working on improving my front end skills, adding React or angular to my repertoire.  
+  :office: Looking for an internship in Belgium, hoping it will go well.
+  
+  #### Skills
