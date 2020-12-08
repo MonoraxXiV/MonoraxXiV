@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## Linkedin
 
- <a href="https://www.linkedin.com/in/kayalin-van-kogelenberg/"><img alt="Logo linkedin, with link" src="https://image.flaticon.com/icons/png/512/9/9942.png" width="40" target="_blank">
+ <a href="https://www.linkedin.com/in/kayalin-van-kogelenberg/" target="_blank"><img alt="Logo linkedin, with link" src="https://image.flaticon.com/icons/png/512/9/9942.png" width="40">
